@@ -1,0 +1,10 @@
+{
+    "AI": {
+        "api_key": "API_KEY"
+    },
+
+    "BOT": {
+        "name": "Megu Bot",
+        "prefix": "."
+    }
+}
